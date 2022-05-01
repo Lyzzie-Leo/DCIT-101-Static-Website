@@ -51,7 +51,7 @@ padding: 2px;
     border-radius: 30px!important;
     margin: auto;
     box-shadow: none!important;
-    display:inline bolck;
+    display:flex;
 }
 .input-group-text{
 width: 100px;
