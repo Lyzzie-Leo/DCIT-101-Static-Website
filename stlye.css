@@ -66,11 +66,7 @@ box-shadow: none!important;
 .features{
     padding:100px 0;
     margin:auto;
-
 }
-.feature-container  {
-	   display: grid;
-	}	
 .booking {
     text-align: center;
     padding-bottom: 30px;
