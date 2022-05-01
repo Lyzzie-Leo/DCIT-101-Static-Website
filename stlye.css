@@ -66,6 +66,7 @@ display: block;
 /*features*/
 .features{
     padding:100px 0;
+    margin:auto;
 
 }
 .booking {
@@ -77,6 +78,7 @@ display: block;
     max-width: fit-content;
     max-height:fit-content;
     display:inline block;
+    margin:auto;
 
 }
 .feature-img{
