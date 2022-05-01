@@ -75,7 +75,7 @@ box-shadow: none!important;
 	  margin: 5px;
 	  text-align: center;
 	}
-	.container {
+	. features-container  {
 	   display: flex;
 	}	
 .booking {
