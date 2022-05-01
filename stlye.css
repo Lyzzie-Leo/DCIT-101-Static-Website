@@ -68,9 +68,16 @@ box-shadow: none!important;
     margin:auto;
 
 }
-.container features{
-    display:inline block;
-}
+.column {
+	  flex: 33.33%;
+	  height: 200px;
+	  padding: 10px;
+	  margin: 5px;
+	  text-align: center;
+	}
+	.container {
+	   display: flex;
+	}	
 .booking {
     text-align: center;
     padding-bottom: 30px;
