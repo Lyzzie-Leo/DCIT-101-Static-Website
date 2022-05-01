@@ -44,14 +44,14 @@ border-radius: 30px;
 background:black;
 margin: auto;
 padding: 2px;
-    display: flex;
+    display:inline block;
 }
 .form-control{
     border: 0;
     border-radius: 30px!important;
     margin: auto;
     box-shadow: none!important;
-    display:flex;
+    display:inline block;
 }
 .input-group-text{
 width: 100px;
