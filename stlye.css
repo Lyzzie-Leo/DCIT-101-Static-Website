@@ -44,7 +44,7 @@ border-radius: 30px;
 background:black;
 margin: auto;
 padding: 2px;
-    display:inline block;
+    display: flex;
 }
 .form-control{
     border: 0;
