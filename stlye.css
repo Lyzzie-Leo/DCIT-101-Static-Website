@@ -77,7 +77,7 @@ box-shadow: none!important;
 
 }
 .feature-img{
-    position: static;
+    position: relative;
     display:inline;
 }
 .feature-details{
