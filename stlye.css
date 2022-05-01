@@ -38,12 +38,12 @@ float:right
     margin:18px 0;
 }
 .input-group{
-  width:90%;
+  width:50%;
 max-width:500px;
 border-radius: 30px;
 background:black;
 margin: auto;
-padding: 2px;
+padding: 1px;
     display:flex;
 }
 .form-control{
@@ -72,9 +72,12 @@ box-shadow: none!important;
 }
 .feature-img img{
     width:100%;
+    max-width:fit-content;
+    max-height:fit-content;
     display:flex;
     flex-direction:row;
     margin:auto;
+    flex-wrap:wrap;
 
 }
 .feature-img{
@@ -109,10 +112,12 @@ margin-bottom: 30px;
     width:100%;
     border-radius: 10px;
     cursor: pointer;
-    display:flex;
+    max-width:fit-content;
+    max-height:fit-content;
 }
 .gallery-box img{
     transform:scale(1.1);
+    
 }
 .gallery-box{
     position: relative;
@@ -147,6 +152,8 @@ footer.row.fa{
 }
 img {
     display: flex;
+    max-width:100%;
+    max-height:100%;
     width: auto;
     height: auto;
     }
