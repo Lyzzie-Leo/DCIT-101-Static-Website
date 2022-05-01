@@ -68,14 +68,14 @@ box-shadow: none!important;
     margin:auto;
 
 }
-.column {
+.feature-column {
 	  flex: 33.33%;
 	  height: 200px;
 	  padding: 10px;
 	  margin: 5px;
 	  text-align: center;
 	}
-	. features-container  {
+.feature-container  {
 	   display: flex;
 	}	
 .booking {
