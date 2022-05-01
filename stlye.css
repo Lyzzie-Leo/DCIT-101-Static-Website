@@ -73,12 +73,14 @@ box-shadow: none!important;
 .feature-img img{
     width:100%;
     display:flex;
+    flex-direction:row;
     margin:auto;
 
 }
 .feature-img{
     position: relative;
     display:inline;
+    flex-wrap:wrap;
 }
 .feature-details{
     padding: 20px;
