@@ -65,13 +65,14 @@ box-shadow: none!important;
 .features{
     padding:100px 0;
     margin:auto;
+    width:25%;
 }
 .booking {
     text-align: center;
     padding-bottom: 30px;
 }
 .feature-img img{
-    width:25%;
+    width:100%;
     max-width:fit-content;
     max-height:fit-content;
     display:flex;
