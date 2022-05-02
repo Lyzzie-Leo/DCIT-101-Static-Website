@@ -39,7 +39,7 @@ float:right
 }
 .input-group{
   width:50%;
-    height:10%;
+    height:5%;
 max-width:500px;
 border-radius: 30px;
 background:black;
@@ -53,9 +53,10 @@ padding: 2px;
     margin: auto;
     box-shadow: none!important;
     display:flex;
+    width:15%;
 }
 .input-group-text{
-width: 100%;
+width: 35%;
 background-image: linear-gradient(#00ff7e,#1f3d90);
 border: 0!important;
 color: black !important;
