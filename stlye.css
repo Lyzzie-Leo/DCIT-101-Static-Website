@@ -98,6 +98,7 @@ box-shadow: none!important;
 box-shadow: 0 0 10px 1px rgba(37,73,214,0.18);
 margin-bottom: 30px;
     display:flex;
+    grid-template-row:auto;
 }
 .travelling-picture{
     text-align: center;
