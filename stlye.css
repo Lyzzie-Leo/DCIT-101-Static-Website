@@ -67,7 +67,7 @@ box-shadow: none!important;
     margin:auto;
     width:25%;
     display:flex;
-    position:relative;
+    flex-direction:row;
 }
 .booking {
     text-align: center;
