@@ -53,10 +53,10 @@ padding: 2px;
     margin: auto;
     box-shadow: none!important;
     display:flex;
-    width:15%;
+    width:50%;
 }
 .input-group-text{
-width: 35%;
+width: 100%;
 background-image: linear-gradient(#00ff7e,#1f3d90);
 border: 0!important;
 color: black !important;
